@@ -1,5 +1,5 @@
-# FYP-LiveChat
-# Please follow the instructions in order to run the system.
+# 1. FYP-LiveChat
+# 2. Please follow the instructions in order to run the system.
 
  ## 2.1 Download and Install XAMPP server - https://www.apachefriends.org/download.html
  ## 2.2 Download the project and paste it inside htdocs folder of xampp - C:\xampp\htdocs
